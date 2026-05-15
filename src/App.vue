@@ -6,8 +6,6 @@
           <ul class="nav-links">
             <li><router-link to="/">Home</router-link></li>
             <li><router-link to="/works">Works</router-link></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Contact</a></li>
           </ul>
         </nav>
       </div>
