@@ -1,1 +1,8 @@
-# JavaScript-KT5
+# Практическая работа №5.
+
+### [Open site](https://k1n9GG07.github.io/q/)
+
+## Инструкция по запуску локально
+1. Установите зависимости: `npm install`
+2. Запустите проект: `npm run dev`
+3. Сборка проекта: `npm run build`
